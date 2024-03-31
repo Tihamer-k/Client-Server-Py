@@ -19,3 +19,4 @@ chat amongst clients.
 **Note:**
 
 - The predefined limit for clients is 3. However, this can be modified based on preference.
+- Also is recomended to use the python versión >= 3.11
