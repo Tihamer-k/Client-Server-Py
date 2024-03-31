@@ -16,7 +16,15 @@ chat amongst clients.
 - Run `python client.py`.
 - You can then start chatting amongst clients.
 
+**Here is a use example at replit**
+If you don´t want to install it, you can test it at replit, like this:
+![img.png](img.png)
+this is the link:
+https://replit.com/@Tihamer-k/Client-Server-Py
+
+
 **Note:**
 
 - The predefined limit for clients is 3. However, this can be modified based on preference.
-- Also is recomended to use the python versión >= 3.11
+- Also is recommended to use the python versión >= 3.11
+- remember to exit the chat, only type "exit chat"
